@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with content distribution",
+      "expected_skill": "content-distribution",
+      "description": "Should activate content-distribution recipe"
+    }
+  ]
+}
