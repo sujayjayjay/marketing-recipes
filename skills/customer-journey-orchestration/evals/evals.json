@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with customer journey orchestration",
+      "expected_skill": "customer-journey-orchestration",
+      "description": "Should activate customer-journey-orchestration recipe"
+    }
+  ]
+}
