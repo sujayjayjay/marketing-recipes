@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with campaign launch",
+      "expected_skill": "campaign-launch",
+      "description": "Should activate campaign-launch recipe"
+    }
+  ]
+}
