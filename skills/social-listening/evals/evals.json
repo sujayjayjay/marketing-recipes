@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with social listening",
+      "expected_skill": "social-listening",
+      "description": "Should activate social-listening recipe"
+    }
+  ]
+}
