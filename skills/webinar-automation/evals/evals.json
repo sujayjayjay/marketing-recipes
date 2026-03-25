@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with webinar automation",
+      "expected_skill": "webinar-automation",
+      "description": "Should activate webinar-automation recipe"
+    }
+  ]
+}
