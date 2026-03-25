@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with lead scoring automation",
+      "expected_skill": "lead-scoring-automation",
+      "description": "Should activate lead-scoring-automation recipe"
+    }
+  ]
+}
