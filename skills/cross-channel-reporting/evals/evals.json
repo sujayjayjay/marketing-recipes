@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with cross channel reporting",
+      "expected_skill": "cross-channel-reporting",
+      "description": "Should activate cross-channel-reporting recipe"
+    }
+  ]
+}
