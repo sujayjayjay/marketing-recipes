@@ -1,0 +1,9 @@
+{
+  "evals": [
+    {
+      "input": "Help me with competitive monitoring",
+      "expected_skill": "competitive-monitoring",
+      "description": "Should activate competitive-monitoring recipe"
+    }
+  ]
+}
